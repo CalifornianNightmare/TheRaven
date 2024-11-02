@@ -1,0 +1,2 @@
+paste in this folder test and train folders containing 10 csv files each named test_XXX.csv or train_XXX.csv where XXX are numbers 1-10
+paste baseline_submission_case1.csv in this folder
