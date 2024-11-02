@@ -3,3 +3,5 @@ data/input/train/
 data/input/baseline_submission_case1.csv
 data/test.csv
 data/train.csv
+**/.ipynb_checkpoints/
+catboost_info/
