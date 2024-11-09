@@ -1,13 +1,8 @@
-data/input/test/
-data/input/train/
-data/output/submission.csv
-data/input/baseline_submission_case1.csv
-data/test.csv
-data/train.csv
 **/.ipynb_checkpoints/
 catboost_info/
 **/catboost_info/
 *.joblib
+*.csv
 .ipynb_checkpoints/
 .idea/
 venv/
